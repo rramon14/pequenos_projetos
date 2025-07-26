@@ -1,11 +1,4 @@
 #Cadastrar Produtos
-# 1. cadastrar_produto()
-# 2. listar_estoque()
-# 3. atualizar_quantidade()
-# 4. remover_produto()
-# 5. calcular_valor_total()
-# 6. salvar_em_csv()
-# 7. menu()
 
 import csv
 
